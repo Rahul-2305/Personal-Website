@@ -229,6 +229,7 @@ st.markdown("""
         <p>Nov 2025 - Present</p>
         <li>Promoted to Analyst within a year for demonstrating strong analytical capability and taking full ownership of US and EMEA brand portfolios.</li>
         <li>Designed and deployed a <a href="https://ads-multiplication-beeraboina-rahul-v2.streamlit.app/">Streamlit-based automation system</a> that reduced multi-file Excel processing time by 95% (25 minutes → 45 seconds), improving reporting efficiency and scalability.</li>
+        <li>Mentored junior team members and provided analytical support across cross-functional projects, fostering a collaborative team environment and ensuring consistent delivery standards.</li>
     </div>
     <div class="timeline-item">
          <h3>Associate Analyst @ Ipsos MMA</h3>
