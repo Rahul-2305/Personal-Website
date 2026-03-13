@@ -130,8 +130,7 @@ st.markdown(f"""
         <h1>Beeraboina Rahul</h1>
         <h3>Market Mix Modelling Analyst | Aspiring Data Scientist</h3>
         <p>
-       A Data Science professional with 1.4 years of experience in Market Mix Modelling, specializing in multi-linear regression and performance analytics. 
-       Complex marketing data is converted into clear, revenue-driving decisions, with a growing focus on advanced machine learning and scalable solutions.
+        A Data Science professional with 1+ years of experience in Market Mix Modelling, specializing in multi-linear regression and performance analytics. I translate complex marketing data into clear, revenue-driving decisions — with a growing focus on advanced machine learning and scalable solutions.
         </p>
     </div>
 </div>
