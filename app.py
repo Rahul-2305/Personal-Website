@@ -301,7 +301,7 @@ body {
 
 <div class="social-container">
 
-    <a href="mailto:rahulbeeraboina@example.com" class="social-btn">
+    <a href="mailto:rahulbeeraboina@gmail.com" class="social-btn">
         📧 Email
     </a>
 
